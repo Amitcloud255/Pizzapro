@@ -181,6 +181,9 @@
 
     <img align="right" width="300"
         src="https://c.ndtvimg.com/2021-02/bj6olj1o_pizza_625x300_20_February_21.jpg?im=FeatureCrop,algorithm=cascade,width=1200,height=675">
+    </body>
+    
+    </html>
 
 </body>
 
